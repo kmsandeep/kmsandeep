@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sandeep
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently looking for job oppotunity in data science and machine learning
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/sandeepkm2312/)
